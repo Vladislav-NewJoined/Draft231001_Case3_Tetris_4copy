@@ -7,7 +7,7 @@ import java.awt.event.KeyListener;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Draft_Task1_3_11_2copy extends JPanel {
+public class Draft_Task1_3_11_copy2 extends JPanel {
 
     private static final long serialVersionUID = -8715353373678321308L;
 
@@ -239,7 +239,7 @@ public class Draft_Task1_3_11_2copy extends JPanel {
         f.setSize(12*26+10, 26*23+25);
         f.setVisible(true);
 
-        final Draft_Task1_3_11_2copy game = new Draft_Task1_3_11_2copy();
+        final Draft_Task1_3_11_copy2 game = new Draft_Task1_3_11_copy2();
         game.init();
         f.add(game);
 

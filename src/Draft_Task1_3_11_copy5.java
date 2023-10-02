@@ -7,7 +7,7 @@ import java.awt.event.KeyListener;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Draft_Task1_3_11_4copy extends JPanel {
+public class Draft_Task1_3_11_copy5 extends JPanel {
 
     public static void main(String[] args) {
         JFrame f = new JFrame("Tetris");
@@ -15,7 +15,7 @@ public class Draft_Task1_3_11_4copy extends JPanel {
         f.setSize(12*26+10, 26*23+25);
         f.setVisible(true);
 
-        final Draft_Task1_3_11_4copy game = new Draft_Task1_3_11_4copy();
+        final Draft_Task1_3_11_copy5 game = new Draft_Task1_3_11_copy5();
         game.init();
         f.add(game);
 
